@@ -87,6 +87,10 @@ export default {
 							text: '深入解析CSS - 第三章 盒模型',
 							link: '/css/chapter3',
 						},
+						{
+							text: '深入解析CSS - 第四章 理解浮动',
+							link: '/css/chapter4',
+						},
 					],
 				},
 			],
